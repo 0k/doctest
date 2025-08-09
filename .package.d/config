@@ -1,0 +1,5 @@
+NAME="@0k/doctest"
+DESCRIPTION="Doctest for js/ts"
+EMAIL="valentin.lab@kalysto.org"
+AUTHOR="Valentin LAB"
+AUTHOR_EMAIL="$AUTHOR <$EMAIL>"
